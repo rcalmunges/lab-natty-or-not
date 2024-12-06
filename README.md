@@ -20,32 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Pegadas na Areia ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pensei em um momento de reflexão para os momentos tristes da vida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
+Haiper.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Faca um texto de reflexão para os momentos tristes da vida e gere 3 ou 4 imagens que reflitam isso como pegadas na areia e uma pessoa caminhando ao fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Reflexão para Momentos Tristes
+
+A vida é uma jornada cheia de altos e baixos, e em alguns momentos, nos encontramos caminhando por caminhos sombrios e solitários. Nesses momentos, é importante lembrar que a tristeza faz parte da experiência humana e que, assim como as ondas do mar, ela também passará.
+
+Imagine-se caminhando na praia, deixando pegadas na areia. Cada passo representa um momento de sua vida, algumas pegadas são profundas, marcadas pela dor e pelo sofrimento, enquanto outras são leves, quase imperceptíveis, refletindo momentos de alegria e paz. A beleza da vida está na diversidade dessas pegadas, na mistura de experiências que nos moldam e nos tornam quem somos.
+
+Quando a tristeza parecer insuportável, olhe para o horizonte e lembre-se de que o sol sempre volta a brilhar após a tempestade. Permita-se sentir, chorar e desabafar, mas também permita-se levantar e seguir em frente. Cada passo que você dá, mesmo que pequeno, é um avanço em direção a dias melhores.
+
+A natureza nos ensina que tudo tem seu tempo. Assim como as estações mudam, nossos sentimentos também se transformam. A tristeza de hoje pode ser a força de amanhã, e as lágrimas de agora podem regar o solo para novas florescerem no futuro.
+
+Vídeo Abaixo.
+
+https://github.com/user-attachments/assets/26c0f0c3-8898-4a84-a058-19ac0b5df503
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É muito interessante e empolgante ver o que as IA's podem fazer hoje em dia com apenas alguns comandos.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
